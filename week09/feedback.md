@@ -4,10 +4,9 @@ Each week, you'll receive a feedback file in GitHub showing a final grade and an
 This assignment was focused on the use of Python and Pandas to load and visualize data, giving you something to interpret and help you understand the data. You did not nee to encapsulate your code in functions or provide docstrings/doctests in your functions.
 
 
-## Final Score: 3/10
+## Final Score: 10/10
 
-**I don't see a submission for week09_assignment_2.ipynb in the week09 folder**
-
+**Updated 11/14**
 
 ## First Half: Interpretation and Feedback
 * 1pt - 41.1 - Correctly identified a trend in data based on the histograms.
